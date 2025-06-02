@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on: **Discord bots & Web Projects**
-- 🌱 Currently learning: **TypeScript, MongoDB**
+- 🌱 Currently learning: **TypeScript**
 - 💬 Ask me about: **JavaScript, Discord.js, and bots**
 - ⚡ Fun fact: I sometimes code better at 2AM than 2PM 😅
 
