@@ -22,7 +22,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=staz-soo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stazmeijr&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=staz-soo&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=stazmeijr&theme=tokyonight" />
 </p>
