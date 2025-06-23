@@ -25,12 +25,9 @@
 
 ---
 
-### 📈 GitHub Stats
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stazmeijr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=stazmeijr&theme=tokyonight" alt="GitHub Streak Stats" />
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stazmeijr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
